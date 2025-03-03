@@ -1,0 +1,14 @@
+# Data Types/ Object Types
+- Number : 1234, 3.14, 3 + 4j, 0b111, Decimal(), Fraction()
+- String: 'spam', "Bob's", b'a\x01c', u'sp\xc4m'
+- List: [1, [2, 'three'], 4.5], list(range(10))
+- Tuple: (1, 'spam', 4, 'U'), tuple('spam'), named tuple
+- [] <-- brackets, () <-- parenthesis, {} <-- curly braces
+- Dictionary: {'food': 'spam', 'taste': 'yum'}, dict()
+- Set: set('abc'), {'a','b','c'}
+- File: open('eggs.txt'), open(r'C:\chicken.bin', 'wb')
+- Other core types: None, bool, types, classes, functions, modules
+- Program unit types: Program, module, function, method
+- Advance types: Decorators, Generators, Iterators, Meta Programming
+- Extension types: GUIs, Databases, Networks, XML, etc.
+- User-defined classes: class, instance, method, inheritance, composition
