@@ -25,13 +25,13 @@ To make the most out of these notes, start with the introductory topics and prog
    ```bash
    git clone https://github.com/saad-ameer/Python-Notes.git
 2. **Navigate to the Repository**:
-       ```bash
+   ```bash
        cd Python-Notes
-       ```
+  
 3. **Run the Scripts**:
-       ```bash
+   ```bash
        python3 <filename>.py
-       ```
+       
 
 Ensure Python is installed on your system. If not, download and install it from [python.org](https://www.python.org/downloads/).
 
